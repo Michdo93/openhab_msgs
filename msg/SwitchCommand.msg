@@ -4,6 +4,6 @@
 string ON=ON
 string OFF=OFF
 
-string state # Switch command enumerated above
+string command # Switch command enumerated above
 Header header
 string item # the name of the item
