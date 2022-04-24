@@ -2,4 +2,4 @@
 
 Header header
 string item # the name of the item
-sensor_msgs/Image state # the real image data
+sensor_msgs/Image command # the real image data
