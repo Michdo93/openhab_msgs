@@ -1,7 +1,7 @@
-# Color information (RGB)
+# Color information (HSB)
 
 Header header
 string item # the name of the item
-float32 r
-float32 g
-float32 b
+uint32 hue        # Color of the light
+uint32 saturation # Saturation of the light
+uint32 brightness # Brightness of the light
