@@ -1,4 +1,4 @@
-# Color information (RGB)
+# Color information (HSB)
 
 # Possible commands for Color
 string ON=ON
