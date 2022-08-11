@@ -8,3 +8,4 @@ string CLOSED=CLOSED
 string state
 Header header
 string item # the name of the item
+bool isnull
