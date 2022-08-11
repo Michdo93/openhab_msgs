@@ -2,3 +2,4 @@
 
 Header header
 string item # the name of the group
+bool isnull
