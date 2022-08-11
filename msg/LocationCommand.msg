@@ -2,6 +2,7 @@
 
 Header header
 string item # the name of the item
+bool isnull
 # Latitude [degrees]. Positive is north of equator; negative is south.
 float64 latitude
 
