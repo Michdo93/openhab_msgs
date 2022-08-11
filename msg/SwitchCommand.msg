@@ -7,3 +7,4 @@ string OFF=OFF
 string command # Switch command enumerated above
 Header header
 string item # the name of the item
+bool isnull
