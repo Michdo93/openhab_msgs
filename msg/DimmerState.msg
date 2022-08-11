@@ -106,3 +106,4 @@ int8 PERCENTAGE100=100
 int8 state # Dimmer state enumerated above
 Header header
 string item # the name of the item
+bool isnull
