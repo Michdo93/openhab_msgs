@@ -119,3 +119,4 @@ uint32 saturation # Saturation of the light
 uint32 brightness # Brightness of the light
 Header header
 string item # the name of the item
+bool isnull
