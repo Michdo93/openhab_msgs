@@ -115,3 +115,4 @@ int8 PERCENTAGE100=100
 int8 percentage
 Header header
 string item # the name of the item
+bool isnull
