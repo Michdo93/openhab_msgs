@@ -11,3 +11,4 @@ string FASTFORWARD=FASTFORWARD
 string command # Player command enumerated above
 Header header
 string item # the name of the item
+bool isnull
