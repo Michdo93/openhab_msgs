@@ -11,3 +11,4 @@ string FASTFORWARD=FASTFORWARD
 string state # Player state enumerated above
 Header header
 string item # the name of the item
+bool isnull
